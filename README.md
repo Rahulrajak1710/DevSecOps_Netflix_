@@ -16,9 +16,7 @@
 
 
 
-## Susbcribe:
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
+
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
@@ -35,7 +33,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/N4si/DevSecOps-Project.git
+    git clone 
     ```
     
 
